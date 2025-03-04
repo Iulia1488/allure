@@ -1,5 +1,4 @@
-![b08674a6-7970-4406-aa09-c258a8a73c05-attachment](https://github.com/user-attachments/assets/73caec74-3af6-4b4a-b8ae-79ed7263ce7f)
-Вот что выдаёт Allure
+![Снимок экрана (7)](https://github.com/user-attachments/assets/8247f936-b0cb-4fe7-a09c-8ef6c0849c95)
 
 
 [![Java CI with Gradle](https://github.com/Iulia1488/patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Iulia1488/patterns/actions/workflows/gradle.yml)
